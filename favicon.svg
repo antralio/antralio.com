@@ -1,0 +1,11 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4f46e5;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#06b6d4;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <!-- Modern geometric "A" -->
+  <path d="M32 8 L54 56 L44 56 L40 45 L24 45 L20 56 L10 56 Z M27 37 L37 37 L32 21 Z" fill="url(#gradient)"/>
+</svg>
